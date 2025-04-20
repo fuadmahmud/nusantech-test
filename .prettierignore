@@ -1,0 +1,12 @@
+# Ignore artifacts:
+build
+coverage
+
+# Ignore HTML
+**/*.html
+
+# Ignore other
+package.json
+*lock.yaml
+*lock.json
+*.md
